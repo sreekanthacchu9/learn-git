@@ -1,0 +1,2 @@
+mkdir sree
+touch txt
